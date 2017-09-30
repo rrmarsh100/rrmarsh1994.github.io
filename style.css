@@ -1,0 +1,6 @@
+header#portfolio-header {
+   background: url(images/jj.jpg) center / cover;
+   height: 60vh;
+   justify-content: center;
+   text-align: center;
+ }
